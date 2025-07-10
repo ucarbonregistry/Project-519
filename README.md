@@ -53,3 +53,16 @@ __________
 ___
 4 M/S Meghmani Organics Limited Kutch SEL/2100/07-08/4974 30/07/2018
 _________________
+The project location is situated in the state of Gujarat. The nearest airport Facilities The project site is well
+connected by district and village roads to the nearest town. The geographic co-ordinates of the project
+locations have been provided below.
+
+Sr. No. Name Of PP District WTG Number Pinpoint Location
+__________
+1 M/S Meghmani Organics Limited Kutch SEL/2100/07-08/4871 23°15'55.6"N 69°17'22.2"E
+___________
+2 M/S Meghmani Organics Limited Kutch SEL/2100/07-08/4870 23°16'17.9"N 69°17'31.6"E
+___________
+3 M/S Meghmani Organics Limited Kutch SEL/2100/07-08/4872 23°15'39.0"N 69°15'31.8"E
+________
+4 M/S Meghmani Organics Limited Kutch SEL/2100/07-08/4974 23°14'42.5"N 69°16'49.5"E
